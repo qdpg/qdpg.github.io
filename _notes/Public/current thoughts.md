@@ -13,6 +13,3 @@ and buy new **markers**
 + landscaping wiring diagram
 + plumbing fixtures schedule
 
-
-
-![[1-how-to.png]]

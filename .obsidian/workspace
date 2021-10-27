@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Public/current thoughts.md",
+            "file": "_posts/2020-03-01-how-to.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/current thoughts.md",
+                "file": "_posts/2020-03-01-how-to.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "fb2401eb245e9947",
   "lastOpenFiles": [
+    "_posts/2020-03-01-how-to.md",
+    "_posts/2020-03-01-features.md",
+    "pages/posts.md",
+    "pages/notes.md",
+    "pages/index.md",
+    "_notes/Public/1,2,3.md",
     "_notes/Public/current thoughts.md",
     "_notes/Public/Hidden Note.md",
     "assets/img/2-how-to.png",
-    "README.md",
-    "assets/img/sun.svg",
-    "assets/img/1-how-to.png",
-    "assets/img/Ste-Adele.jpeg",
-    "assets/img/4-how-to.png",
-    "assets/img/3-how-to.png",
-    "pages/posts.md"
+    "README.md"
   ]
 }
