@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-03-01-how-to.md",
+            "file": "_notes/Public/Laurie Anderson on making art.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-03-01-how-to.md",
+                "file": "_notes/Public/Laurie Anderson on making art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "fb2401eb245e9947",
   "lastOpenFiles": [
+    "_notes/Public/Laurie Anderson on making art.md",
+    "_notes/Public/Hidden Note.md",
     "_posts/2020-03-01-how-to.md",
-    "_posts/2020-03-01-features.md",
-    "pages/posts.md",
-    "pages/notes.md",
     "pages/index.md",
+    "pages/notes.md",
+    "pages/posts.md",
+    "_posts/2020-03-01-features.md",
     "_notes/Public/1,2,3.md",
     "_notes/Public/current thoughts.md",
-    "_notes/Public/Hidden Note.md",
-    "assets/img/2-how-to.png",
-    "README.md"
+    "assets/img/2-how-to.png"
   ]
 }

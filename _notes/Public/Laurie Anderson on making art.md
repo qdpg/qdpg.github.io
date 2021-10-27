@@ -8,3 +8,6 @@ date : 27-10-2021
 3. Is it crazy enough?
 4. Is it beautiful enough?
 5. Is it stupid enough?
+
+
+<img src="../assets/img/laurie.jpeg" width="100%">
